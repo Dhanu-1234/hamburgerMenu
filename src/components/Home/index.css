@@ -1,0 +1,13 @@
+.home-img-container {
+  width: 100%;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-img-styles {
+  height: 80%;
+  width: 90%;
+}
